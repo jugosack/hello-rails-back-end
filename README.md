@@ -28,6 +28,7 @@ application up and running.
     - [Open API documentation](#open-api-documentation)
     - [Usage](#usage-1)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [Show your support ](#show-your-support-)
   - [📝 License ](#-license-)
@@ -140,6 +141,13 @@ Visit http://localhost:3000/api-docs in your browser.
 - GitHub: [@github](https://github.com/jugosack)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jugoslavachkoski/)
 - Twitter: [twitter](https://twitter.com/Jugoslav_A)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Add CSS]**
+- **[Add name column in database]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
