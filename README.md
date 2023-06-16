@@ -37,7 +37,7 @@ Things you may want to cover:
 
 # 📖 Hello Rails Back End <a name="about-project"></a>
 
-> This is a back end project to use as a API endpoint for the "Hello world" project. You can find the front-end project here: [Hello Rails Front End](https://...).
+> This is a back end project to use as a API endpoint for the "Hello world" project. You can find the front-end project here: [Hello Rails Front End](https://github.com/jugosack/hello-react-front-end).
 
 ## Built With <a name="built-with"></a>
 
